@@ -1,4 +1,5 @@
 import mysql.connector as mysql
+
 MY_HOST = 'localhost'
 MY_USER = 'bhavana'
 MY_PASS = 'mypassword'

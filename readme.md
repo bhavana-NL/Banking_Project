@@ -1,5 +1,9 @@
 ## Welcome to "Banking Project"
 
+### Steps to run code
+1. First run with **main.py** file.
+2. 
+
 ### Tables in the "bank" database
 - customers: 
     * id
@@ -29,6 +33,7 @@
   
 - beneficiaries:
     * id
+    * customer id
     * username
     * beneficiary_name
     * beneficiary_acc_number
